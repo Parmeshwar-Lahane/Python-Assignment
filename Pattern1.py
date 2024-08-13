@@ -18,7 +18,6 @@ def main():
 if __name__=="__main__":
     main()
 
-
 # Write a program which accept one nuber and diplay the below patter
 # Output ---
 # * * * * *

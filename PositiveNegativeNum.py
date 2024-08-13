@@ -2,7 +2,7 @@
 
 def main():
 
-    print("\nThis application is to check the entered number is positive or negative:")
+    print("\nThis application is to check the entered number is positive or negative :")
 
     No = float(input("Enter number : "))
 

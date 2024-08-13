@@ -1,6 +1,6 @@
 # Write a program which acccept number from user and print that number of "*" on screen
 
-print("\nProgram to print Stat on screen..")
+print("\nProgram to print Stat on screen ")
 
 def main():
     

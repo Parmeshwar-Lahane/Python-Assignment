@@ -2,7 +2,7 @@
 
 def Add():
 
-    print("\nAddition of two number")
+    print("\nAddition of two number ")
 
     No1 = float(input("\nEnter First number : "))
     No2 = float(input("Enter Second number : "))

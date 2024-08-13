@@ -3,7 +3,7 @@
 
 def ChkNum():
 
-    print("\nThis program will check whether the entered number is odd or even:")
+    print("\nThis program will check whether the entered number is odd or even :")
 
     No = int(input("\nEnter number : "))
 

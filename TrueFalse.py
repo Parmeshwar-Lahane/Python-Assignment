@@ -20,7 +20,6 @@ def main():
     print(Ans)
 
 
-    
     # if No > 0:
         
     #     if (No%5) == 0:

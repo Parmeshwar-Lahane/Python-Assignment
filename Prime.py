@@ -1,6 +1,7 @@
 # Write a program which accept one number from user and return is prime or not.
 
 def main(No):
+    
     if No <= 1:
         return False
 
